@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oğuz Genç</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Computer_Engineering-Student-green?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Computer_Engineering-Senior_Student-green?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge&logo=typescript" />
 </p>
 
@@ -20,7 +20,7 @@
     <td width="50%" valign="top">
       <ul>
         <li>🎓 <b>Konya</b>'da yaşayan 4. sınıf Bilgisayar Mühendisliği öğrencisiyim.</li>
-        <li>💻 <b>React</b> ve <b>TypeScript</b> kullanarak modern web projeleri (Akfermag, Akdaş Kimya) geliştiriyorum.</li>
+        <li>💻 <b>React</b> ve <b>TypeScript</b> kullanarak modern web projeleri geliştiriyorum.</li>
         <li>🐍 <b>Python</b> ile veri kazıma ve otomasyon projeleri üzerinde çalışıyorum.</li>
         <li>🛡️ Ağ ve <b>VoIP güvenliği</b> araştırmalarıyla ilgileniyorum.</li>
       </ul>
