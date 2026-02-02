@@ -31,7 +31,7 @@
 ### 📊 Project Tech Stack Distribution
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzgnc&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="oguzgnc top langs" />
+  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzgnc&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="oguzgnc top langs" />
 </p>
 
 <div align="center">
