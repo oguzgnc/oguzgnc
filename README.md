@@ -28,13 +28,11 @@
 <br/>
 <hr/>
 
-### 📈 Activity & Contribution Graph
+### 📊 Project Tech Stack Distribution
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=oguzgnc&theme=tokyonight&area=true&hide_border=true" alt="oguzgnc activity graph" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzgnc&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="oguzgnc top langs" />
 </p>
-
-<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oguzgnc&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
