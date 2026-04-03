@@ -15,6 +15,11 @@
 
 <br/>
 
+### 📱 Mobile Development
+<img src="https://skillicons.dev/icons?i=flutter,dart&perline=2" />
+
+<br/>
+
 ### ⚙️ Backend & Scripting
 <img src="https://skillicons.dev/icons?i=python,nodejs,express,mysql,mongodb&perline=5" />
 
